@@ -1,0 +1,204 @@
+Paper,Dimension,Value
+kdd15-p9,Dataset,Yahoo
+kdd15-p9,Problem,recommendation
+kdd15-p9,Problem,over fitting
+kdd15-p9,Method,MCMC
+kdd15-p9,Method,Gibbs sampling
+kdd15-p9,Dataset,Netflix
+kdd15-p9,Metric,prediction accuracy
+kdd15-p9,Method,matrix factorization
+kdd15-p9,Metric,rating matrix
+kdd15-p9,Metric,Bayesian inference
+kdd15-p9,Method,stochastic gradient MCMC
+kdd15-p19,Problem,web co occurrence statistics
+kdd15-p19,Problem,timeline
+kdd15-p19,Dataset,Knowledge Bases
+kdd15-p19,Metric,Mechanical Turk
+kdd15-p19,Method,static global ranking
+kdd15-p19,Method,submodular optimization
+kdd15-p19,Metric,empirical evidence
+kdd15-p19,Method,temporal diversity
+kdd15-p19,Dataset,web co occurrence scores
+kdd15-p29,Method,Maximum Likelihood Estimation
+kdd15-p29,Problem,discriminability of similarity measures
+kdd15-p29,Problem,scalability of methods
+kdd15-p29,Metric,accurate estimators
+kdd15-p29,Metric,efficiency
+kdd15-p29,Problem,dimensional reduction techniques
+kdd15-p29,Metric,robust
+kdd15-p29,Method,knearest neighbor distances
+kdd15-p29,Method,manifold learning
+kdd15-p29,Method,Extreme Value Theory
+kdd15-p29,Dataset,artificial data
+kdd15-p29,Dataset,synthetic distance distributions
+kdd15-p29,Dataset,realworld data
+kdd15-p39,Method,visualization system
+kdd15-p39,Dataset,Twitter users
+kdd15-p39,Metric,average scope of spatial attention
+kdd15-p39,Method,spatial information extraction and representation
+kdd15-p39,Dataset,Tweets
+kdd15-p39,Method,analytical framework
+kdd15-p39,Problem,spatial focused analysis of microblogging
+kdd15-p39,Method,collective spatial attention
+kdd15-p39,Problem,extracting information of location mentions
+kdd15-p39,Problem,aggregating multiple spatial expressions
+kdd15-p59,Problem,evaluation of classifiers
+kdd15-p59,Dataset,data streams
+kdd15-p59,Problem,class imbalance
+kdd15-p59,Metric,statistical significance
+kdd15-p59,Metric,statistically valid
+kdd15-p59,Method,classification algorithm
+kdd15-p59,Problem,validation methodology
+kdd15-p59,Method,prequential bootstrap validation
+kdd15-p59,Method,Sign test
+kdd15-p59,Method,forgetting mechanism
+kdd15-p79,Problem,high order time series
+kdd15-p79,Method,dynamic graphical model
+kdd15-p79,Method,tensor factorization
+kdd15-p79,Method,careful regularizations
+kdd15-p79,Metric,linear scalability
+kdd15-p79,Dataset,three real datasets
+kdd15-p79,Metric,outperforms
+kdd15-p79,Method,multilinear dynamic systems
+kdd15-p79,Problem,temporal dynamics
+kdd15-p447,Problem,website optimization problem
+kdd15-p447,Method,rapid testing method
+kdd15-p447,Dataset,actual small scale website
+kdd15-p447,Method,A/B Testing
+kdd15-p447,Problem,search problem
+kdd15-p447,Metric,outperforms
+kdd15-p447,Dataset,actual large scale website
+kdd15-p447,Metric,higher performance
+kdd15-p109,Dataset,scientific articles
+kdd15-p109,Problem,information overload
+kdd15-p109,Problem,high computational complexity
+kdd15-p109,Method,collaboration pattern
+kdd15-p109,Metric,area under the ROC
+kdd15-p109,Method,function of common profile information
+kdd15-p109,Dataset,massive dataset of computer science
+kdd15-p89,Problem,outlier detection
+kdd15-p89,Method,interactive anomaly exploration model
+kdd15-p89,Problem,abnormalities
+kdd15-p89,Metric,innovative
+kdd15-p89,Metric,true sense
+kdd15-p89,Problem,relationship among different outlier points
+kdd15-p89,Method,online outlier exploration platform
+kdd15-p89,Method,interactive anomaly exploration model
+kdd15-p89,Method,quadratic complexity algorithm
+kdd15-p89,Metric,effectiveness
+kdd15-p89,Dataset,GMTI
+kdd15-p2227,Method,A/B Testing
+kdd15-p2227,Problem,network effect
+kdd15-p2227,Problem,product innovation
+kdd15-p2227,Problem,social network
+kdd15-p2227,Metric,scalability
+kdd15-p2227,Metric,usability
+kdd15-p2227,Dataset,LinkedIn
+kdd15-p2197,Method,topic models
+kdd15-p2197,Method,generative model
+kdd15-p2197,Problem,tactical pattern discovery
+kdd15-p2197,Problem,pass segment annotation
+kdd15-p2197,Problem,Soccer industry
+kdd15-p2197,Problem,spatial analysis
+kdd15-p2197,Metric,Intelligent demo system
+kdd15-p2197,Dataset,match logs
+kdd15-p2147,Method,machine learning pipeline
+kdd15-p2147,Method,adaptive transfer learning algorithm
+kdd15-p2147,Method,machine translated features
+kdd15-p2147,Method,kernel mean matching
+kdd15-p2147,Problem,text mining
+kdd15-p2147,Problem,Natural Language Processing
+kdd15-p2147,Problem,spam detection
+kdd15-p2147,Metric,misclassification errors
+kdd15-p2147,Metric,F1
+kdd15-p2147,Metric,area under the ROC
+kdd15-p2147,Problem,multi lingual spam detection
+kdd15-p2147,Dataset,LinkedIn
+kdd15-p2137,Method,logic programming
+kdd15-p2137,Method,causal reasoning
+kdd15-p2137,Problem,association rule
+kdd15-p2137,Problem,causality
+kdd15-p2137,Problem,Informatics
+kdd15-p2137,Problem,security
+kdd15-p2137,Dataset,military activity
+kdd15-p2137,Metric,measure of causality
+kdd15-p2137,Dataset,relational database
+kdd15-p2119,Problem,Code Blue
+kdd15-p2119,Problem,cardiac arrest
+kdd15-p2119,Problem,early prediction
+kdd15-p2119,Problem,flag patients
+kdd15-p2119,Problem,classification problem
+kdd15-p2119,Method,early warning systems
+kdd15-p2119,Method,SVM
+kdd15-p2119,Metric,area under the ROC
+kdd15-p2119,Method,radial kernel
+kdd15-p2119,Method,feature extraction
+kdd15-p2119,Dataset,hospitalization history
+kdd15-p2119,Dataset,electronic medical records
+kdd15-p2079,Problem,early identification
+kdd15-p2079,Problem,security
+kdd15-p2079,Metric,robust
+kdd15-p2079,Problem,criminology
+kdd15-p2079,Method,cross fold validation
+kdd15-p2079,Method,supervised learning approach
+kdd15-p2079,Method,naive bayes
+kdd15-p2079,Method,decision tree
+kdd15-p2079,Method,random forest
+kdd15-p2079,Method,neural network
+kdd15-p2079,Method,SVM
+kdd15-p2079,Problem,social network
+kdd15-p2079,Dataset,arrest records
+kdd15-p2079,Dataset,realworld offender data
+kdd15-p2019,Problem,knowledge extraction
+kdd15-p2019,Problem,retrospective studies
+kdd15-p2019,Problem,text mining
+kdd15-p2019,Problem,scientific discovery
+kdd15-p2019,Problem,hypothesis generation
+kdd15-p2019,Method,KnIT
+kdd15-p2019,Method,matrix factorization
+kdd15-p2019,Method,Graph Diffusion
+kdd15-p2019,Metric,area under the ROC
+kdd15-p2019,Method,natural language parse trees
+kdd15-p2019,Method,NMF
+kdd15-p2019,Dataset,biomedical literature
+kdd15-p1475,Problem,biological image analysis
+kdd15-p1475,Problem,feature extraction
+kdd15-p1475,Problem,Bioinformatics
+kdd15-p1475,Problem,gene expression pattern
+kdd15-p1475,Problem,natural image recognition
+kdd15-p1475,Method,Multi Task Learning
+kdd15-p1475,Metric,area under the ROC
+kdd15-p1475,Method,deep convolutional neural networks
+kdd15-p1475,Method,deep learning
+kdd15-p1475,Method,problem independent feature extraction
+kdd15-p1475,Dataset,ImageNet
+kdd15-p1475,Dataset,labeled natural images with thousands of categories
+kdd15-p1759,Problem,social influence
+kdd15-p1759,Problem,analysis of sentiment
+kdd15-p1759,Problem,social network
+kdd15-p1759,Dataset,Wimbledon
+kdd15-p1759,Metric,response rate
+kdd15-p1523,Problem,large margin classifier
+kdd15-p1523,Problem,Genetics
+kdd15-p1523,Problem,image analysis
+kdd15-p1523,Problem,text mining
+kdd15-p1523,Problem,prediction performance
+kdd15-p1523,Method,MCMC
+kdd15-p1523,Method,Supervised Topic Models
+kdd15-p1523,Method,LDA model
+kdd15-p1523,Method,Gibbs sampling
+kdd15-p1523,Method,maximum entropy principle
+kdd15-p1523,Dataset,20Newsgroups
+kdd15-p1523,Metric,F1
+kdd15-p1523,Dataset,hotel review
+kdd15-p1523,Dataset,Wikipedia
+kdd15-p1741,Problem,fraud detection
+kdd15-p1741,Method,taxonomy
+kdd15-p1741,Problem,social network
+kdd15-p1741,Metric,true positives
+kdd15-p1741,Metric,false positives
+kdd15-p1741,Method,supervised model
+kdd15-p1741,Metric,confidence
+kdd15-p1741,Method,gradient descent
+kdd15-p1741,Dataset,compliance risk and fraud
+kdd15-p1741,Dataset,public and private data

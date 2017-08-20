@@ -1,0 +1,317 @@
+Pattern,Support
+neural network,0.873563
+outperforms,0.632184
+neural network | outperforms,0.551724
+effectiveness,0.540230
+robust,0.540230
+deep learning,0.494253
+efficiency,0.459770
+effectiveness | neural network,0.436782
+neural network | robust,0.436782
+efficiency | neural network,0.402299
+gradient descent,0.402299
+deep learning | outperforms,0.379310
+effectiveness | robust,0.379310
+deep learning | neural network,0.367816
+effectiveness | outperforms,0.367816
+efficiency | outperforms,0.356322
+outperforms | robust,0.356322
+gradient descent | neural network,0.344828
+deep learning | robust,0.333333
+recommendation,0.321839
+effectiveness | neural network | outperforms,0.310345
+efficiency | neural network | outperforms,0.310345
+deep learning | effectiveness,0.298851
+deep learning | neural network | outperforms,0.298851
+neural network | outperforms | robust,0.298851
+deep learning | gradient descent,0.287356
+effectiveness | efficiency,0.287356
+effectiveness | neural network | robust,0.287356
+gradient descent | outperforms,0.287356
+social network,0.287356
+neural network | recommendation,0.275862
+efficiency | robust,0.264368
+gradient descent | neural network | outperforms,0.264368
+gradient descent | robust,0.252874
+matrix factorization,0.252874
+outperforms | recommendation,0.252874
+classification problem,0.241379
+deep learning | outperforms | robust,0.241379
+effectiveness | efficiency | neural network,0.241379
+outperforms | social network,0.241379
+deep learning | effectiveness | robust,0.229885
+deep learning | gradient descent | neural network,0.229885
+deep learning | neural network | robust,0.229885
+effectiveness | efficiency | outperforms,0.229885
+effectiveness | gradient descent,0.229885
+effectiveness | outperforms | robust,0.229885
+efficiency | neural network | robust,0.229885
+feature extraction,0.229885
+neural network | social network,0.229885
+deep learning | effectiveness | outperforms,0.218391
+deep learning | efficiency,0.218391
+deep learning | gradient descent | outperforms,0.218391
+deep learning | gradient descent | robust,0.218391
+gradient descent | neural network | robust,0.206897
+neural network | outperforms | recommendation,0.206897
+random forest,0.206897
+deep learning | effectiveness | neural network,0.195402
+deep learning | gradient descent | neural network | outperforms,0.195402
+deep learning | matrix factorization,0.195402
+deep learning | social network,0.195402
+effectiveness | efficiency | neural network | outperforms,0.195402
+effectiveness | recommendation,0.195402
+feature extraction | neural network,0.195402
+neural network | outperforms | social network,0.195402
+classification problem | neural network,0.183908
+deep learning | neural network | outperforms | robust,0.183908
+deep learning | outperforms | social network,0.183908
+deep learning | recommendation,0.183908
+effectiveness | efficiency | robust,0.183908
+effectiveness | gradient descent | neural network,0.183908
+effectiveness | neural network | outperforms | robust,0.183908
+efficiency | gradient descent,0.183908
+efficiency | outperforms | robust,0.183908
+gradient descent | outperforms | robust,0.183908
+matrix factorization | robust,0.183908
+neural network | random forest,0.183908
+recommendation | social network,0.183908
+classification problem | outperforms,0.172414
+decision tree,0.172414
+decision tree | neural network,0.172414
+deep learning | effectiveness | gradient descent,0.172414
+deep learning | efficiency | outperforms,0.172414
+deep learning | gradient descent | neural network | robust,0.172414
+deep learning | outperforms | recommendation,0.172414
+effectiveness | gradient descent | outperforms,0.172414
+effectiveness | matrix factorization,0.172414
+effectiveness | neural network | recommendation,0.172414
+effectiveness | outperforms | recommendation,0.172414
+generative model,0.172414
+gradient descent | neural network | outperforms | robust,0.172414
+matrix factorization | neural network,0.172414
+matrix factorization | outperforms,0.172414
+outperforms | recommendation | social network,0.172414
+prediction accuracy,0.172414
+recommendation | robust,0.172414
+scalability,0.172414
+Informatics,0.160920
+Natural Language Processing,0.160920
+Natural Language Processing | neural network,0.160920
+classification problem | deep learning,0.160920
+deep convolutional neural networks,0.160920
+deep convolutional neural networks | neural network,0.160920
+deep learning | effectiveness | neural network | outperforms,0.160920
+deep learning | effectiveness | outperforms | robust,0.160920
+deep learning | efficiency | neural network,0.160920
+deep learning | efficiency | robust,0.160920
+deep learning | gradient descent | outperforms | robust,0.160920
+deep learning | matrix factorization | robust,0.160920
+effectiveness | gradient descent | neural network | outperforms,0.160920
+effectiveness | gradient descent | robust,0.160920
+effectiveness | matrix factorization | robust,0.160920
+effectiveness | social network,0.160920
+efficiency | gradient descent | neural network,0.160920
+efficiency | neural network | outperforms | robust,0.160920
+feature extraction | outperforms,0.160920
+outperforms | recommendation | robust,0.160920
+robust | social network,0.160920
+Informatics | neural network,0.149425
+classification problem | effectiveness,0.149425
+classification problem | gradient descent,0.149425
+deep learning | effectiveness | efficiency,0.149425
+deep learning | effectiveness | matrix factorization,0.149425
+deep learning | effectiveness | recommendation,0.149425
+deep learning | gradient descent | neural network | outperforms | robust,0.149425
+deep learning | matrix factorization | outperforms,0.149425
+effectiveness | efficiency | neural network | robust,0.149425
+effectiveness | neural network | outperforms | recommendation,0.149425
+efficiency | gradient descent | outperforms,0.149425
+efficiency | recommendation,0.149425
+gradient descent | social network,0.149425
+neural network | prediction accuracy,0.149425
+neural network | recommendation | robust,0.149425
+neural network | scalability,0.149425
+outperforms | robust | social network,0.149425
+prediction performance,0.149425
+Multi Task Learning,0.137931
+classification problem | neural network | outperforms,0.137931
+classification problem | robust,0.137931
+confidence,0.137931
+deep convolutional neural networks | deep learning,0.137931
+deep convolutional neural networks | deep learning | neural network,0.137931
+deep learning | effectiveness | gradient descent | robust,0.137931
+deep learning | effectiveness | matrix factorization | robust,0.137931
+deep learning | effectiveness | neural network | robust,0.137931
+deep learning | effectiveness | outperforms | recommendation,0.137931
+deep learning | gradient descent | social network,0.137931
+deep learning | neural network | outperforms | social network,0.137931
+deep learning | neural network | recommendation,0.137931
+deep learning | neural network | social network,0.137931
+deep learning | robust | social network,0.137931
+effectiveness | outperforms | social network,0.137931
+efficiency | gradient descent | neural network | outperforms,0.137931
+efficiency | outperforms | recommendation,0.137931
+feature extraction | neural network | outperforms,0.137931
+generative model | outperforms,0.137931
+gradient descent | outperforms | social network,0.137931
+neural network | outperforms | recommendation | robust,0.137931
+neural network | recommendation | social network,0.137931
+outperforms | prediction accuracy,0.137931
+outperforms | random forest,0.137931
+topic models,0.137931
+Natural Language Processing | deep learning,0.126437
+Natural Language Processing | deep learning | neural network,0.126437
+Natural Language Processing | neural network | outperforms,0.126437
+Natural Language Processing | neural network | robust,0.126437
+Natural Language Processing | outperforms,0.126437
+Natural Language Processing | robust,0.126437
+Wikipedia,0.126437
+classification problem | gradient descent | neural network,0.126437
+confidence | neural network,0.126437
+deep learning | effectiveness | efficiency | outperforms,0.126437
+deep learning | effectiveness | gradient descent | neural network,0.126437
+deep learning | effectiveness | gradient descent | outperforms,0.126437
+deep learning | effectiveness | neural network | recommendation,0.126437
+deep learning | efficiency | neural network | outperforms,0.126437
+deep learning | efficiency | neural network | robust,0.126437
+deep learning | feature extraction,0.126437
+deep learning | gradient descent | outperforms | social network,0.126437
+deep learning | neural network | outperforms | recommendation,0.126437
+deep learning | outperforms | recommendation | robust,0.126437
+deep learning | outperforms | recommendation | social network,0.126437
+deep learning | outperforms | robust | social network,0.126437
+deep learning | recommendation | robust,0.126437
+deep learning | recommendation | social network,0.126437
+deep learning | scalability,0.126437
+effectiveness | efficiency | gradient descent,0.126437
+effectiveness | efficiency | outperforms | robust,0.126437
+effectiveness | gradient descent | neural network | robust,0.126437
+effectiveness | neural network | social network,0.126437
+effectiveness | recommendation | robust,0.126437
+efficiency | feature extraction,0.126437
+efficiency | matrix factorization,0.126437
+efficiency | neural network | recommendation,0.126437
+generative model | neural network,0.126437
+gradient descent | outperforms | recommendation,0.126437
+gradient descent | recommendation,0.126437
+matrix factorization | neural network | outperforms,0.126437
+matrix factorization | outperforms | robust,0.126437
+matrix factorization | outperforms | social network,0.126437
+matrix factorization | recommendation,0.126437
+matrix factorization | social network,0.126437
+neural network | outperforms | random forest,0.126437
+neural network | outperforms | recommendation | social network,0.126437
+neural network | outperforms | robust | social network,0.126437
+neural network | robust | social network,0.126437
+Informatics | robust,0.114943
+Multi Task Learning | neural network,0.114943
+Natural Language Processing | deep learning | neural network | robust,0.114943
+Natural Language Processing | deep learning | robust,0.114943
+Wikipedia | neural network,0.114943
+classification problem | deep learning | outperforms,0.114943
+classification problem | effectiveness | neural network,0.114943
+classification problem | efficiency,0.114943
+decision tree | neural network | random forest,0.114943
+decision tree | random forest,0.114943
+deep convolutional neural networks | deep learning | neural network | outperforms,0.114943
+deep convolutional neural networks | deep learning | outperforms,0.114943
+deep convolutional neural networks | neural network | outperforms,0.114943
+deep convolutional neural networks | outperforms,0.114943
+deep learning | effectiveness | efficiency | robust,0.114943
+deep learning | effectiveness | gradient descent | neural network | outperforms,0.114943
+deep learning | effectiveness | neural network | outperforms | recommendation,0.114943
+deep learning | effectiveness | neural network | outperforms | robust,0.114943
+deep learning | effectiveness | social network,0.114943
+deep learning | efficiency | gradient descent,0.114943
+deep learning | efficiency | outperforms | robust,0.114943
+deep learning | gradient descent | outperforms | recommendation,0.114943
+deep learning | gradient descent | recommendation,0.114943
+deep learning | matrix factorization | neural network,0.114943
+deep learning | matrix factorization | outperforms | robust,0.114943
+deep learning | prediction accuracy,0.114943
+effectiveness | feature extraction,0.114943
+effectiveness | matrix factorization | outperforms,0.114943
+effectiveness | neural network | outperforms | social network,0.114943
+effectiveness | neural network | recommendation | robust,0.114943
+effectiveness | outperforms | recommendation | robust,0.114943
+effectiveness | outperforms | recommendation | social network,0.114943
+effectiveness | recommendation | social network,0.114943
+effectiveness | scalability,0.114943
+efficiency | feature extraction | neural network,0.114943
+efficiency | gradient descent | robust,0.114943
+efficiency | matrix factorization | outperforms,0.114943
+efficiency | neural network | outperforms | recommendation,0.114943
+efficiency | outperforms | social network,0.114943
+efficiency | social network,0.114943
+feature extraction | robust,0.114943
+gradient descent | neural network | outperforms | social network,0.114943
+gradient descent | neural network | social network,0.114943
+matrix factorization | neural network | robust,0.114943
+matrix factorization | outperforms | recommendation,0.114943
+neural network | outperforms | prediction accuracy,0.114943
+outperforms | recommendation | robust | social network,0.114943
+recommendation | robust | social network,0.114943
+robust | scalability,0.114943
+Informatics | neural network | robust,0.103448
+Multi Task Learning | outperforms,0.103448
+Natural Language Processing | deep learning | neural network | outperforms,0.103448
+Natural Language Processing | deep learning | outperforms,0.103448
+Natural Language Processing | neural network | outperforms | robust,0.103448
+Natural Language Processing | outperforms | robust,0.103448
+classification problem | deep learning | gradient descent,0.103448
+classification problem | deep learning | neural network,0.103448
+classification problem | deep learning | robust,0.103448
+classification problem | effectiveness | outperforms,0.103448
+classification problem | gradient descent | outperforms,0.103448
+confidence | neural network | outperforms,0.103448
+confidence | outperforms,0.103448
+decision tree | neural network | outperforms,0.103448
+decision tree | outperforms,0.103448
+deep learning | effectiveness | efficiency | neural network,0.103448
+deep learning | effectiveness | gradient descent | neural network | robust,0.103448
+deep learning | effectiveness | matrix factorization | outperforms,0.103448
+deep learning | effectiveness | outperforms | recommendation | robust,0.103448
+deep learning | effectiveness | outperforms | social network,0.103448
+deep learning | effectiveness | recommendation | robust,0.103448
+deep learning | efficiency | matrix factorization,0.103448
+deep learning | gradient descent | neural network | outperforms | social network,0.103448
+deep learning | gradient descent | neural network | social network,0.103448
+deep learning | gradient descent | robust | social network,0.103448
+deep learning | matrix factorization | neural network | outperforms,0.103448
+deep learning | matrix factorization | outperforms | social network,0.103448
+deep learning | matrix factorization | social network,0.103448
+deep learning | neural network | outperforms | recommendation | robust,0.103448
+deep learning | neural network | outperforms | robust | social network,0.103448
+deep learning | neural network | recommendation | robust,0.103448
+deep learning | neural network | robust | social network,0.103448
+deep learning | neural network | scalability,0.103448
+effectiveness | efficiency | gradient descent | neural network,0.103448
+effectiveness | efficiency | gradient descent | outperforms,0.103448
+effectiveness | efficiency | neural network | outperforms | robust,0.103448
+effectiveness | efficiency | recommendation,0.103448
+effectiveness | feature extraction | outperforms,0.103448
+effectiveness | gradient descent | neural network | outperforms | robust,0.103448
+effectiveness | gradient descent | outperforms | robust,0.103448
+effectiveness | gradient descent | social network,0.103448
+effectiveness | matrix factorization | neural network,0.103448
+effectiveness | matrix factorization | outperforms | robust,0.103448
+effectiveness | neural network | outperforms | recommendation | robust,0.103448
+effectiveness | robust | scalability,0.103448
+effectiveness | robust | social network,0.103448
+efficiency | feature extraction | outperforms,0.103448
+efficiency | gradient descent | neural network | robust,0.103448
+efficiency | matrix factorization | robust,0.103448
+efficiency | random forest,0.103448
+gradient descent | neural network | outperforms | recommendation,0.103448
+gradient descent | neural network | recommendation,0.103448
+gradient descent | robust | social network,0.103448
+gradient descent | scalability,0.103448
+matrix factorization | neural network | outperforms | social network,0.103448
+matrix factorization | neural network | recommendation,0.103448
+matrix factorization | neural network | social network,0.103448
+matrix factorization | outperforms | recommendation | social network,0.103448
+matrix factorization | recommendation | social network,0.103448
+neural network | prediction performance,0.103448
+outperforms | prediction performance,0.103448
+random forest | robust,0.103448

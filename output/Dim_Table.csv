@@ -1,0 +1,604 @@
+Problem,Method,Dataset,Metric,Count
+recommendation,feature extraction,realworld data,outperforms,2
+recommendation,feature extraction,realworld data,effectiveness,2
+recommendation,topic models,Knowledge Bases,outperforms,2
+recommendation,topic models,Knowledge Bases,confidence,2
+recommendation,topic models,Knowledge Bases,effectiveness,3
+recommendation,topic models,Wikipedia,outperforms,2
+recommendation,topic models,Wikipedia,confidence,2
+recommendation,topic models,Wikipedia,effectiveness,2
+recommendation,topic models,Tweets,outperforms,4
+recommendation,topic models,Tweets,scalability,2
+recommendation,topic models,Tweets,robust,3
+recommendation,topic models,Tweets,confidence,2
+recommendation,topic models,Tweets,effectiveness,5
+recommendation,matrix factorization,Yahoo,outperforms,5
+recommendation,matrix factorization,Yahoo,prediction accuracy,3
+recommendation,matrix factorization,Yahoo,efficiency,4
+recommendation,matrix factorization,Yahoo,robust,4
+recommendation,matrix factorization,Yahoo,confidence,4
+recommendation,matrix factorization,Yahoo,effectiveness,4
+recommendation,matrix factorization,scientific articles,outperforms,4
+recommendation,matrix factorization,scientific articles,prediction accuracy,2
+recommendation,matrix factorization,scientific articles,efficiency,2
+recommendation,matrix factorization,scientific articles,rating matrix,2
+recommendation,matrix factorization,scientific articles,robust,4
+recommendation,matrix factorization,scientific articles,effectiveness,3
+recommendation,matrix factorization,Netflix,outperforms,3
+recommendation,matrix factorization,Netflix,prediction accuracy,2
+recommendation,matrix factorization,Netflix,scalability,2
+recommendation,matrix factorization,Netflix,rating matrix,2
+recommendation,matrix factorization,Netflix,robust,2
+recommendation,matrix factorization,Netflix,confidence,2
+recommendation,matrix factorization,LinkedIn,outperforms,4
+recommendation,matrix factorization,LinkedIn,scalability,4
+recommendation,matrix factorization,LinkedIn,efficiency,5
+recommendation,matrix factorization,LinkedIn,robust,3
+recommendation,matrix factorization,LinkedIn,confidence,3
+recommendation,matrix factorization,LinkedIn,effectiveness,5
+recommendation,matrix factorization,Knowledge Bases,outperforms,2
+recommendation,matrix factorization,Knowledge Bases,efficiency,2
+recommendation,matrix factorization,Knowledge Bases,effectiveness,3
+recommendation,matrix factorization,realworld data,outperforms,4
+recommendation,matrix factorization,realworld data,efficiency,2
+recommendation,matrix factorization,realworld data,robust,2
+recommendation,matrix factorization,realworld data,effectiveness,3
+recommendation,matrix factorization,Wikipedia,F1,2
+recommendation,matrix factorization,Wikipedia,outperforms,6
+recommendation,matrix factorization,Wikipedia,prediction accuracy,2
+recommendation,matrix factorization,Wikipedia,scalability,2
+recommendation,matrix factorization,Wikipedia,efficiency,6
+recommendation,matrix factorization,Wikipedia,rating matrix,2
+recommendation,matrix factorization,Wikipedia,robust,5
+recommendation,matrix factorization,Wikipedia,confidence,3
+recommendation,matrix factorization,Wikipedia,effectiveness,8
+recommendation,matrix factorization,data streams,outperforms,2
+recommendation,matrix factorization,data streams,prediction accuracy,2
+recommendation,matrix factorization,data streams,scalability,3
+recommendation,matrix factorization,data streams,efficiency,2
+recommendation,matrix factorization,data streams,robust,3
+recommendation,matrix factorization,data streams,effectiveness,3
+recommendation,matrix factorization,Tweets,outperforms,6
+recommendation,matrix factorization,Tweets,prediction accuracy,2
+recommendation,matrix factorization,Tweets,scalability,3
+recommendation,matrix factorization,Tweets,efficiency,2
+recommendation,matrix factorization,Tweets,robust,3
+recommendation,matrix factorization,Tweets,effectiveness,6
+recommendation,deep learning,Yahoo,outperforms,2
+recommendation,deep learning,Yahoo,robust,2
+recommendation,deep learning,Yahoo,effectiveness,2
+recommendation,deep learning,scientific articles,outperforms,2
+recommendation,deep learning,scientific articles,effectiveness,2
+recommendation,deep learning,realworld data,outperforms,2
+recommendation,deep learning,realworld data,effectiveness,2
+recommendation,deep learning,Wikipedia,outperforms,2
+recommendation,deep learning,Wikipedia,efficiency,2
+recommendation,deep learning,Wikipedia,robust,2
+recommendation,deep learning,Wikipedia,confidence,2
+recommendation,deep learning,Wikipedia,effectiveness,2
+recommendation,deep learning,Tweets,outperforms,3
+recommendation,deep learning,Tweets,robust,3
+recommendation,deep learning,Tweets,effectiveness,2
+recommendation,deep learning,electronic medical records,outperforms,2
+recommendation,deep learning,electronic medical records,robust,2
+recommendation,deep learning,electronic medical records,effectiveness,2
+recommendation,supervised model,Tweets,outperforms,2
+recommendation,supervised model,Tweets,effectiveness,2
+recommendation,decision tree,Wikipedia,outperforms,2
+recommendation,decision tree,Wikipedia,effectiveness,2
+recommendation,decision tree,relational database,scalability,2
+recommendation,decision tree,relational database,effectiveness,2
+recommendation,decision tree,Tweets,outperforms,2
+recommendation,gradient descent,Yahoo,outperforms,4
+recommendation,gradient descent,Yahoo,efficiency,3
+recommendation,gradient descent,Yahoo,robust,2
+recommendation,gradient descent,Yahoo,confidence,4
+recommendation,gradient descent,Yahoo,effectiveness,2
+recommendation,gradient descent,Netflix,outperforms,4
+recommendation,gradient descent,Netflix,rating matrix,2
+recommendation,gradient descent,Netflix,robust,3
+recommendation,gradient descent,Netflix,confidence,2
+recommendation,gradient descent,LinkedIn,outperforms,2
+recommendation,gradient descent,LinkedIn,efficiency,4
+recommendation,gradient descent,LinkedIn,robust,2
+recommendation,gradient descent,LinkedIn,confidence,2
+recommendation,gradient descent,LinkedIn,effectiveness,4
+recommendation,gradient descent,realworld data,outperforms,3
+recommendation,gradient descent,realworld data,robust,2
+recommendation,gradient descent,realworld data,effectiveness,3
+recommendation,gradient descent,Wikipedia,robust,2
+recommendation,gradient descent,Tweets,outperforms,3
+recommendation,gradient descent,Tweets,false positives,2
+recommendation,gradient descent,Tweets,robust,4
+recommendation,gradient descent,Tweets,effectiveness,2
+recommendation,gradient descent,electronic medical records,outperforms,2
+recommendation,gradient descent,electronic medical records,robust,2
+recommendation,gradient descent,electronic medical records,effectiveness,2
+recommendation,deep convolutional neural networks,scientific articles,outperforms,2
+recommendation,deep convolutional neural networks,scientific articles,effectiveness,2
+recommendation,deep convolutional neural networks,realworld data,outperforms,2
+recommendation,deep convolutional neural networks,realworld data,effectiveness,2
+recommendation,taxonomy,Yahoo,confidence,2
+recommendation,taxonomy,Yahoo,effectiveness,2
+recommendation,taxonomy,scientific articles,rating matrix,2
+recommendation,taxonomy,LinkedIn,scalability,2
+recommendation,taxonomy,Wikipedia,outperforms,2
+recommendation,taxonomy,Wikipedia,effectiveness,2
+recommendation,neural network,Yahoo,outperforms,2
+recommendation,neural network,Yahoo,effectiveness,2
+recommendation,neural network,scientific articles,outperforms,2
+recommendation,neural network,scientific articles,effectiveness,2
+recommendation,neural network,realworld data,outperforms,2
+recommendation,neural network,realworld data,effectiveness,2
+recommendation,neural network,Wikipedia,outperforms,2
+recommendation,neural network,Wikipedia,efficiency,2
+recommendation,neural network,Wikipedia,robust,2
+recommendation,neural network,Wikipedia,confidence,2
+recommendation,neural network,Wikipedia,effectiveness,2
+recommendation,neural network,electronic medical records,outperforms,2
+recommendation,neural network,electronic medical records,robust,2
+recommendation,neural network,electronic medical records,effectiveness,2
+recommendation,Maximum Likelihood Estimation,Knowledge Bases,scalability,2
+recommendation,Maximum Likelihood Estimation,Knowledge Bases,robust,2
+recommendation,Maximum Likelihood Estimation,Knowledge Bases,effectiveness,2
+recommendation,tensor factorization,scientific articles,outperforms,2
+recommendation,tensor factorization,scientific articles,efficiency,2
+recommendation,tensor factorization,scientific articles,robust,2
+recommendation,tensor factorization,scientific articles,effectiveness,2
+recommendation,tensor factorization,Wikipedia,outperforms,2
+recommendation,tensor factorization,Wikipedia,efficiency,2
+recommendation,tensor factorization,Wikipedia,robust,2
+recommendation,tensor factorization,Wikipedia,effectiveness,2
+recommendation,tensor factorization,data streams,prediction accuracy,2
+recommendation,tensor factorization,data streams,scalability,2
+recommendation,tensor factorization,data streams,robust,2
+recommendation,tensor factorization,data streams,effectiveness,2
+recommendation,tensor factorization,Tweets,outperforms,2
+recommendation,tensor factorization,electronic medical records,outperforms,2
+recommendation,tensor factorization,electronic medical records,robust,2
+recommendation,tensor factorization,electronic medical records,effectiveness,2
+recommendation,Multi Task Learning,Yahoo,outperforms,2
+recommendation,Multi Task Learning,Yahoo,prediction accuracy,2
+recommendation,Multi Task Learning,Yahoo,efficiency,3
+recommendation,Multi Task Learning,Yahoo,confidence,2
+recommendation,Multi Task Learning,Yahoo,effectiveness,3
+recommendation,Multi Task Learning,LinkedIn,outperforms,2
+recommendation,Multi Task Learning,LinkedIn,efficiency,3
+recommendation,Multi Task Learning,LinkedIn,robust,2
+recommendation,Multi Task Learning,LinkedIn,confidence,2
+recommendation,Multi Task Learning,LinkedIn,effectiveness,3
+recommendation,classification algorithm,Tweets,false positives,2
+recommendation,classification algorithm,Tweets,robust,2
+recommendation,generative model,Yahoo,outperforms,2
+recommendation,generative model,Wikipedia,outperforms,3
+recommendation,generative model,Wikipedia,robust,2
+recommendation,generative model,Wikipedia,confidence,2
+recommendation,generative model,Wikipedia,effectiveness,2
+recommendation,generative model,Tweets,outperforms,2
+recommendation,generative model,Tweets,robust,2
+recommendation,generative model,Tweets,effectiveness,2
+information overload,matrix factorization,scientific articles,outperforms,2
+information overload,matrix factorization,scientific articles,robust,2
+class imbalance,decision tree,Wikipedia,outperforms,2
+class imbalance,decision tree,Wikipedia,false positives,2
+class imbalance,decision tree,Wikipedia,confidence,2
+class imbalance,decision tree,data streams,efficiency,2
+class imbalance,decision tree,data streams,robust,2
+class imbalance,classification algorithm,data streams,efficiency,2
+class imbalance,classification algorithm,data streams,robust,2
+text mining,topic models,Tweets,outperforms,2
+text mining,topic models,Tweets,effectiveness,2
+text mining,generative model,Tweets,outperforms,2
+text mining,generative model,Tweets,effectiveness,2
+Informatics,matrix factorization,Wikipedia,outperforms,2
+Informatics,matrix factorization,Wikipedia,robust,3
+Informatics,matrix factorization,Wikipedia,effectiveness,3
+Informatics,deep learning,electronic medical records,robust,2
+Informatics,deep learning,electronic medical records,effectiveness,2
+Informatics,decision tree,Wikipedia,outperforms,2
+Informatics,decision tree,Wikipedia,robust,2
+Informatics,decision tree,Wikipedia,confidence,2
+Informatics,decision tree,Wikipedia,effectiveness,2
+Informatics,gradient descent,electronic medical records,robust,2
+Informatics,gradient descent,electronic medical records,effectiveness,2
+Informatics,tensor factorization,electronic medical records,robust,2
+Informatics,tensor factorization,electronic medical records,effectiveness,2
+social network,feature extraction,LinkedIn,effectiveness,3
+social network,feature extraction,Knowledge Bases,outperforms,2
+social network,feature extraction,Knowledge Bases,effectiveness,2
+social network,feature extraction,realworld data,outperforms,2
+social network,feature extraction,realworld data,effectiveness,2
+social network,feature extraction,Wikipedia,outperforms,2
+social network,topic models,Yahoo,outperforms,2
+social network,topic models,Yahoo,robust,2
+social network,topic models,Knowledge Bases,outperforms,2
+social network,topic models,Knowledge Bases,confidence,2
+social network,topic models,Knowledge Bases,effectiveness,3
+social network,topic models,Wikipedia,outperforms,3
+social network,topic models,Wikipedia,scalability,2
+social network,topic models,Wikipedia,efficiency,2
+social network,topic models,Wikipedia,robust,2
+social network,topic models,Wikipedia,confidence,2
+social network,topic models,Wikipedia,effectiveness,5
+social network,topic models,data streams,outperforms,2
+social network,topic models,data streams,robust,2
+social network,topic models,Twitter users,scalability,2
+social network,topic models,Twitter users,robust,2
+social network,topic models,Tweets,outperforms,5
+social network,topic models,Tweets,scalability,4
+social network,topic models,Tweets,efficiency,3
+social network,topic models,Tweets,robust,5
+social network,topic models,Tweets,confidence,3
+social network,topic models,Tweets,effectiveness,6
+social network,supervised learning approach,Wikipedia,effectiveness,2
+social network,NMF,Yahoo,outperforms,2
+social network,NMF,Yahoo,robust,2
+social network,NMF,data streams,scalability,2
+social network,NMF,data streams,efficiency,2
+social network,NMF,data streams,robust,2
+social network,NMF,Tweets,outperforms,2
+social network,NMF,Tweets,robust,2
+social network,matrix factorization,Yahoo,outperforms,3
+social network,matrix factorization,Yahoo,scalability,2
+social network,matrix factorization,Yahoo,efficiency,2
+social network,matrix factorization,Yahoo,robust,3
+social network,matrix factorization,Yahoo,effectiveness,2
+social network,matrix factorization,scientific articles,outperforms,4
+social network,matrix factorization,scientific articles,prediction accuracy,2
+social network,matrix factorization,scientific articles,efficiency,2
+social network,matrix factorization,scientific articles,rating matrix,2
+social network,matrix factorization,scientific articles,robust,4
+social network,matrix factorization,scientific articles,effectiveness,3
+social network,matrix factorization,LinkedIn,outperforms,2
+social network,matrix factorization,LinkedIn,scalability,5
+social network,matrix factorization,LinkedIn,efficiency,3
+social network,matrix factorization,LinkedIn,robust,3
+social network,matrix factorization,LinkedIn,confidence,2
+social network,matrix factorization,LinkedIn,effectiveness,4
+social network,matrix factorization,Knowledge Bases,outperforms,2
+social network,matrix factorization,Knowledge Bases,efficiency,2
+social network,matrix factorization,Knowledge Bases,effectiveness,3
+social network,matrix factorization,realworld data,outperforms,4
+social network,matrix factorization,realworld data,efficiency,2
+social network,matrix factorization,realworld data,robust,2
+social network,matrix factorization,realworld data,effectiveness,3
+social network,matrix factorization,Wikipedia,F1,2
+social network,matrix factorization,Wikipedia,outperforms,6
+social network,matrix factorization,Wikipedia,prediction accuracy,2
+social network,matrix factorization,Wikipedia,scalability,2
+social network,matrix factorization,Wikipedia,efficiency,6
+social network,matrix factorization,Wikipedia,rating matrix,2
+social network,matrix factorization,Wikipedia,robust,4
+social network,matrix factorization,Wikipedia,confidence,3
+social network,matrix factorization,Wikipedia,effectiveness,8
+social network,matrix factorization,data streams,outperforms,2
+social network,matrix factorization,data streams,prediction accuracy,2
+social network,matrix factorization,data streams,scalability,3
+social network,matrix factorization,data streams,efficiency,2
+social network,matrix factorization,data streams,robust,3
+social network,matrix factorization,data streams,effectiveness,2
+social network,matrix factorization,Twitter users,outperforms,2
+social network,matrix factorization,Tweets,outperforms,6
+social network,matrix factorization,Tweets,prediction accuracy,2
+social network,matrix factorization,Tweets,scalability,3
+social network,matrix factorization,Tweets,efficiency,2
+social network,matrix factorization,Tweets,robust,3
+social network,matrix factorization,Tweets,confidence,2
+social network,matrix factorization,Tweets,effectiveness,5
+social network,deep learning,scientific articles,outperforms,2
+social network,deep learning,scientific articles,effectiveness,2
+social network,deep learning,realworld data,outperforms,3
+social network,deep learning,realworld data,robust,2
+social network,deep learning,realworld data,effectiveness,3
+social network,deep learning,Wikipedia,outperforms,3
+social network,deep learning,Wikipedia,prediction accuracy,2
+social network,deep learning,Wikipedia,efficiency,2
+social network,deep learning,Wikipedia,robust,3
+social network,deep learning,Wikipedia,confidence,2
+social network,deep learning,Wikipedia,effectiveness,3
+social network,deep learning,Tweets,outperforms,3
+social network,deep learning,Tweets,robust,3
+social network,deep learning,Tweets,effectiveness,2
+social network,supervised model,Wikipedia,confidence,2
+social network,supervised model,Wikipedia,effectiveness,2
+social network,supervised model,Tweets,outperforms,2
+social network,supervised model,Tweets,effectiveness,2
+social network,decision tree,Wikipedia,outperforms,3
+social network,decision tree,Wikipedia,prediction accuracy,2
+social network,decision tree,Wikipedia,effectiveness,2
+social network,decision tree,relational database,scalability,2
+social network,decision tree,relational database,effectiveness,2
+social network,gradient descent,LinkedIn,efficiency,2
+social network,gradient descent,LinkedIn,robust,2
+social network,gradient descent,LinkedIn,effectiveness,2
+social network,gradient descent,realworld data,outperforms,4
+social network,gradient descent,realworld data,efficiency,2
+social network,gradient descent,realworld data,robust,3
+social network,gradient descent,realworld data,effectiveness,4
+social network,gradient descent,Wikipedia,outperforms,2
+social network,gradient descent,Wikipedia,efficiency,2
+social network,gradient descent,Wikipedia,robust,2
+social network,gradient descent,Wikipedia,effectiveness,3
+social network,gradient descent,data streams,outperforms,2
+social network,gradient descent,data streams,robust,2
+social network,gradient descent,Tweets,outperforms,5
+social network,gradient descent,Tweets,efficiency,2
+social network,gradient descent,Tweets,robust,3
+social network,gradient descent,Tweets,effectiveness,2
+social network,deep convolutional neural networks,scientific articles,outperforms,2
+social network,deep convolutional neural networks,scientific articles,effectiveness,2
+social network,deep convolutional neural networks,realworld data,outperforms,2
+social network,deep convolutional neural networks,realworld data,effectiveness,2
+social network,taxonomy,scientific articles,rating matrix,2
+social network,taxonomy,LinkedIn,scalability,3
+social network,taxonomy,LinkedIn,effectiveness,2
+social network,taxonomy,Knowledge Bases,outperforms,2
+social network,taxonomy,Knowledge Bases,efficiency,2
+social network,taxonomy,Knowledge Bases,effectiveness,2
+social network,taxonomy,Wikipedia,outperforms,4
+social network,taxonomy,Wikipedia,efficiency,4
+social network,taxonomy,Wikipedia,robust,2
+social network,taxonomy,Wikipedia,effectiveness,4
+social network,taxonomy,Tweets,outperforms,2
+social network,neural network,scientific articles,outperforms,2
+social network,neural network,scientific articles,effectiveness,2
+social network,neural network,realworld data,outperforms,3
+social network,neural network,realworld data,robust,2
+social network,neural network,realworld data,effectiveness,3
+social network,neural network,Wikipedia,outperforms,4
+social network,neural network,Wikipedia,prediction accuracy,2
+social network,neural network,Wikipedia,efficiency,3
+social network,neural network,Wikipedia,robust,2
+social network,neural network,Wikipedia,effectiveness,3
+social network,neural network,Tweets,outperforms,2
+social network,neural network,Tweets,effectiveness,3
+social network,random forest,Knowledge Bases,outperforms,2
+social network,random forest,Knowledge Bases,efficiency,2
+social network,random forest,Knowledge Bases,robust,2
+social network,random forest,Knowledge Bases,effectiveness,2
+social network,random forest,Wikipedia,outperforms,2
+social network,Maximum Likelihood Estimation,Knowledge Bases,scalability,2
+social network,Maximum Likelihood Estimation,Knowledge Bases,robust,2
+social network,Maximum Likelihood Estimation,Knowledge Bases,effectiveness,2
+social network,tensor factorization,scientific articles,outperforms,2
+social network,tensor factorization,scientific articles,efficiency,2
+social network,tensor factorization,scientific articles,robust,2
+social network,tensor factorization,scientific articles,effectiveness,2
+social network,tensor factorization,Wikipedia,outperforms,2
+social network,tensor factorization,Wikipedia,efficiency,2
+social network,tensor factorization,Wikipedia,robust,2
+social network,tensor factorization,Wikipedia,effectiveness,2
+social network,tensor factorization,data streams,prediction accuracy,2
+social network,tensor factorization,data streams,scalability,2
+social network,tensor factorization,data streams,robust,2
+social network,tensor factorization,data streams,effectiveness,2
+social network,Multi Task Learning,LinkedIn,efficiency,2
+social network,Multi Task Learning,LinkedIn,robust,2
+social network,Multi Task Learning,LinkedIn,effectiveness,2
+social network,Multi Task Learning,Tweets,efficiency,2
+social network,Multi Task Learning,Tweets,effectiveness,2
+social network,generative model,Wikipedia,outperforms,3
+social network,generative model,Wikipedia,efficiency,2
+social network,generative model,Wikipedia,robust,3
+social network,generative model,Wikipedia,confidence,2
+social network,generative model,Wikipedia,effectiveness,4
+social network,generative model,Tweets,outperforms,3
+social network,generative model,Tweets,scalability,2
+social network,generative model,Tweets,robust,3
+social network,generative model,Tweets,effectiveness,4
+Natural Language Processing,topic models,realworld data,outperforms,2
+Natural Language Processing,topic models,realworld data,scalability,2
+Natural Language Processing,topic models,realworld data,efficiency,2
+Natural Language Processing,topic models,realworld data,robust,2
+Natural Language Processing,topic models,Tweets,efficiency,2
+Natural Language Processing,matrix factorization,scientific articles,robust,2
+Natural Language Processing,matrix factorization,scientific articles,confidence,2
+Natural Language Processing,matrix factorization,realworld data,outperforms,2
+Natural Language Processing,deep learning,realworld data,outperforms,2
+Natural Language Processing,deep learning,realworld data,robust,2
+Natural Language Processing,deep learning,realworld data,effectiveness,2
+Natural Language Processing,deep learning,Wikipedia,outperforms,3
+Natural Language Processing,deep learning,Wikipedia,efficiency,2
+Natural Language Processing,deep learning,Wikipedia,robust,3
+Natural Language Processing,deep learning,Wikipedia,confidence,2
+Natural Language Processing,deep learning,Wikipedia,effectiveness,2
+Natural Language Processing,deep learning,electronic medical records,outperforms,2
+Natural Language Processing,deep learning,electronic medical records,robust,2
+Natural Language Processing,deep learning,electronic medical records,effectiveness,2
+Natural Language Processing,gradient descent,realworld data,outperforms,2
+Natural Language Processing,gradient descent,realworld data,robust,2
+Natural Language Processing,gradient descent,realworld data,effectiveness,2
+Natural Language Processing,gradient descent,Wikipedia,outperforms,4
+Natural Language Processing,gradient descent,Wikipedia,efficiency,2
+Natural Language Processing,gradient descent,Wikipedia,robust,3
+Natural Language Processing,gradient descent,Wikipedia,effectiveness,3
+Natural Language Processing,gradient descent,Tweets,outperforms,3
+Natural Language Processing,gradient descent,Tweets,false positives,2
+Natural Language Processing,gradient descent,Tweets,robust,2
+Natural Language Processing,gradient descent,Tweets,effectiveness,3
+Natural Language Processing,gradient descent,electronic medical records,outperforms,2
+Natural Language Processing,gradient descent,electronic medical records,robust,2
+Natural Language Processing,gradient descent,electronic medical records,effectiveness,2
+Natural Language Processing,taxonomy,Wikipedia,outperforms,2
+Natural Language Processing,taxonomy,Wikipedia,efficiency,2
+Natural Language Processing,taxonomy,Wikipedia,effectiveness,2
+Natural Language Processing,neural network,realworld data,outperforms,2
+Natural Language Processing,neural network,realworld data,robust,2
+Natural Language Processing,neural network,realworld data,effectiveness,2
+Natural Language Processing,neural network,Wikipedia,outperforms,4
+Natural Language Processing,neural network,Wikipedia,efficiency,3
+Natural Language Processing,neural network,Wikipedia,robust,3
+Natural Language Processing,neural network,Wikipedia,confidence,2
+Natural Language Processing,neural network,Wikipedia,effectiveness,3
+Natural Language Processing,neural network,Tweets,outperforms,2
+Natural Language Processing,neural network,Tweets,effectiveness,2
+Natural Language Processing,neural network,electronic medical records,outperforms,2
+Natural Language Processing,neural network,electronic medical records,robust,2
+Natural Language Processing,neural network,electronic medical records,effectiveness,2
+Natural Language Processing,tensor factorization,electronic medical records,outperforms,2
+Natural Language Processing,tensor factorization,electronic medical records,robust,2
+Natural Language Processing,tensor factorization,electronic medical records,effectiveness,2
+Natural Language Processing,generative model,Wikipedia,outperforms,2
+Natural Language Processing,generative model,Wikipedia,efficiency,2
+Natural Language Processing,generative model,Wikipedia,effectiveness,2
+prediction performance,feature extraction,Wikipedia,outperforms,2
+prediction performance,topic models,Wikipedia,effectiveness,3
+prediction performance,topic models,Tweets,outperforms,2
+prediction performance,topic models,Tweets,scalability,2
+prediction performance,topic models,Tweets,efficiency,2
+prediction performance,topic models,Tweets,robust,2
+prediction performance,topic models,Tweets,effectiveness,4
+prediction performance,supervised learning approach,Wikipedia,effectiveness,2
+prediction performance,matrix factorization,scientific articles,outperforms,2
+prediction performance,matrix factorization,scientific articles,robust,2
+prediction performance,matrix factorization,Knowledge Bases,outperforms,2
+prediction performance,matrix factorization,Knowledge Bases,confidence,2
+prediction performance,matrix factorization,Knowledge Bases,effectiveness,2
+prediction performance,matrix factorization,Wikipedia,outperforms,3
+prediction performance,matrix factorization,Wikipedia,prediction accuracy,2
+prediction performance,matrix factorization,Wikipedia,efficiency,2
+prediction performance,matrix factorization,Wikipedia,confidence,2
+prediction performance,matrix factorization,Wikipedia,effectiveness,3
+prediction performance,matrix factorization,data streams,prediction accuracy,2
+prediction performance,matrix factorization,Tweets,outperforms,4
+prediction performance,matrix factorization,Tweets,prediction accuracy,2
+prediction performance,matrix factorization,Tweets,efficiency,2
+prediction performance,matrix factorization,Tweets,robust,2
+prediction performance,matrix factorization,Tweets,confidence,2
+prediction performance,matrix factorization,Tweets,effectiveness,5
+prediction performance,deep learning,Wikipedia,outperforms,2
+prediction performance,deep learning,Wikipedia,robust,2
+prediction performance,deep learning,Wikipedia,confidence,2
+prediction performance,Gibbs sampling,Tweets,robust,2
+prediction performance,Gibbs sampling,Tweets,effectiveness,2
+prediction performance,decision tree,Wikipedia,outperforms,2
+prediction performance,decision tree,Wikipedia,effectiveness,2
+prediction performance,decision tree,Tweets,outperforms,2
+prediction performance,decision tree,Tweets,effectiveness,2
+prediction performance,gradient descent,realworld data,outperforms,2
+prediction performance,gradient descent,realworld data,efficiency,2
+prediction performance,gradient descent,realworld data,robust,2
+prediction performance,gradient descent,realworld data,effectiveness,2
+prediction performance,gradient descent,Wikipedia,outperforms,2
+prediction performance,gradient descent,Tweets,outperforms,2
+prediction performance,gradient descent,Tweets,efficiency,2
+prediction performance,gradient descent,Tweets,effectiveness,2
+prediction performance,taxonomy,Wikipedia,outperforms,3
+prediction performance,taxonomy,Wikipedia,efficiency,2
+prediction performance,taxonomy,Wikipedia,effectiveness,3
+prediction performance,neural network,Wikipedia,outperforms,4
+prediction performance,neural network,Wikipedia,efficiency,2
+prediction performance,neural network,Wikipedia,robust,3
+prediction performance,neural network,Wikipedia,confidence,3
+prediction performance,neural network,Wikipedia,effectiveness,3
+prediction performance,random forest,Wikipedia,outperforms,2
+prediction performance,Multi Task Learning,Wikipedia,outperforms,2
+prediction performance,Multi Task Learning,Wikipedia,effectiveness,2
+prediction performance,generative model,Wikipedia,outperforms,2
+prediction performance,generative model,Wikipedia,efficiency,2
+prediction performance,generative model,Wikipedia,robust,2
+prediction performance,generative model,Wikipedia,effectiveness,3
+prediction performance,generative model,Tweets,scalability,2
+prediction performance,generative model,Tweets,effectiveness,3
+fraud detection,decision tree,data streams,false positives,2
+fraud detection,decision tree,data streams,scalability,2
+fraud detection,decision tree,data streams,efficiency,2
+fraud detection,decision tree,data streams,robust,3
+fraud detection,decision tree,data streams,effectiveness,2
+classification problem,feature extraction,LinkedIn,effectiveness,2
+classification problem,feature extraction,Wikipedia,outperforms,2
+classification problem,feature extraction,Wikipedia,robust,2
+classification problem,feature extraction,Wikipedia,effectiveness,2
+classification problem,topic models,Knowledge Bases,outperforms,2
+classification problem,topic models,Knowledge Bases,confidence,2
+classification problem,topic models,Knowledge Bases,effectiveness,2
+classification problem,topic models,Wikipedia,outperforms,2
+classification problem,topic models,Wikipedia,confidence,2
+classification problem,topic models,Wikipedia,effectiveness,2
+classification problem,topic models,Tweets,outperforms,4
+classification problem,topic models,Tweets,efficiency,2
+classification problem,topic models,Tweets,robust,2
+classification problem,topic models,Tweets,confidence,2
+classification problem,topic models,Tweets,effectiveness,3
+classification problem,matrix factorization,Yahoo,outperforms,2
+classification problem,matrix factorization,Yahoo,efficiency,3
+classification problem,matrix factorization,Yahoo,effectiveness,3
+classification problem,matrix factorization,Wikipedia,outperforms,2
+classification problem,matrix factorization,Wikipedia,efficiency,2
+classification problem,matrix factorization,Wikipedia,effectiveness,2
+classification problem,matrix factorization,Tweets,outperforms,2
+classification problem,matrix factorization,Tweets,efficiency,2
+classification problem,matrix factorization,Tweets,effectiveness,2
+classification problem,deep learning,Tweets,outperforms,2
+classification problem,deep learning,Tweets,robust,2
+classification problem,supervised model,Wikipedia,confidence,2
+classification problem,supervised model,Wikipedia,effectiveness,2
+classification problem,decision tree,data streams,outperforms,2
+classification problem,decision tree,data streams,efficiency,3
+classification problem,decision tree,data streams,robust,2
+classification problem,decision tree,data streams,effectiveness,2
+classification problem,gradient descent,Wikipedia,outperforms,2
+classification problem,gradient descent,Wikipedia,robust,3
+classification problem,gradient descent,Wikipedia,effectiveness,3
+classification problem,gradient descent,data streams,outperforms,2
+classification problem,gradient descent,Tweets,outperforms,4
+classification problem,gradient descent,Tweets,false positives,2
+classification problem,gradient descent,Tweets,efficiency,2
+classification problem,gradient descent,Tweets,robust,3
+classification problem,gradient descent,Tweets,effectiveness,4
+classification problem,taxonomy,Yahoo,effectiveness,2
+classification problem,taxonomy,Wikipedia,outperforms,3
+classification problem,taxonomy,Wikipedia,efficiency,2
+classification problem,taxonomy,Wikipedia,effectiveness,3
+classification problem,neural network,Wikipedia,outperforms,2
+classification problem,neural network,Wikipedia,effectiveness,2
+classification problem,random forest,Wikipedia,outperforms,2
+classification problem,random forest,Wikipedia,robust,2
+classification problem,random forest,Wikipedia,effectiveness,2
+classification problem,SVM,Wikipedia,outperforms,2
+classification problem,SVM,Wikipedia,effectiveness,2
+classification problem,SVM,Tweets,false positives,2
+classification problem,SVM,Tweets,robust,2
+classification problem,SVM,Tweets,effectiveness,2
+classification problem,Multi Task Learning,Wikipedia,outperforms,2
+classification problem,Multi Task Learning,Wikipedia,effectiveness,2
+classification problem,classification algorithm,data streams,efficiency,2
+classification problem,classification algorithm,data streams,robust,2
+classification problem,classification algorithm,Tweets,false positives,2
+classification problem,classification algorithm,Tweets,robust,2
+classification problem,generative model,Tweets,outperforms,2
+security,topic models,data streams,outperforms,2
+security,topic models,data streams,efficiency,2
+security,matrix factorization,Wikipedia,effectiveness,2
+security,matrix factorization,data streams,robust,2
+over fitting,matrix factorization,Wikipedia,effectiveness,2
+over fitting,decision tree,Wikipedia,outperforms,2
+over fitting,decision tree,Wikipedia,effectiveness,2
+timeline,topic models,Tweets,robust,2
+timeline,gradient descent,data streams,outperforms,2
+timeline,gradient descent,Tweets,outperforms,4
+timeline,gradient descent,Tweets,efficiency,2
+timeline,gradient descent,Tweets,effectiveness,2
+timeline,generative model,Tweets,outperforms,2
+search problem,topic models,Tweets,outperforms,2
+social influence,matrix factorization,Wikipedia,outperforms,2
+social influence,matrix factorization,Wikipedia,effectiveness,2
+spam detection,gradient descent,Tweets,robust,2
+spam detection,gradient descent,Tweets,confidence,2
+spam detection,classification algorithm,Tweets,false positives,2
+spam detection,classification algorithm,Tweets,robust,2
+outlier detection,feature extraction,data streams,false positives,2
+outlier detection,feature extraction,data streams,efficiency,2
+outlier detection,feature extraction,data streams,robust,2
+outlier detection,decision tree,data streams,false positives,2
+outlier detection,decision tree,data streams,robust,2
+outlier detection,decision tree,data streams,effectiveness,2
+outlier detection,neural network,data streams,false positives,2
+outlier detection,neural network,data streams,robust,2
+temporal dynamics,topic models,Tweets,scalability,2
+temporal dynamics,topic models,Tweets,robust,3
+temporal dynamics,topic models,Tweets,effectiveness,3
+temporal dynamics,neural network,data streams,robust,2
+temporal dynamics,neural network,Tweets,effectiveness,2
+temporal dynamics,generative model,Tweets,robust,2
+temporal dynamics,generative model,Tweets,effectiveness,2
