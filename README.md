@@ -8,4 +8,4 @@ The main goal is, given 400+ research paper, construct the data cube and design 
 5.  Topics in Methods with K-Means clustering and display topic words with Word Cloud;
 6.  Method/Problem classification with Logistic SVM with SGD training.
 
-Check the report for further details.
+Check the Report for further details.
