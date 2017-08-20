@@ -1,4 +1,4 @@
-## Project for Introduction to Data Mining course
+## Project of Introduction to Data Mining course
 
 The main goal is, given 400+ research paper, construct the data cube and design 3 data mining tasks accordingly:
 1.  Manually annotate 20 paper and determine keywords in Method, Problem, Metric and Dataset;
